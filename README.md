@@ -20,3 +20,8 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 | Random Forest | 0.8607666290868095 |
 | ANN | 0.8679537767756482 |
 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
