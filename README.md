@@ -14,16 +14,16 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 * Algorithms used for the churn predictions were 'Logistic Regression', 'KNN Classifier', 'Decision Tree Classifier', 'Random Forest Classifier' and 'ANN classifier'. Below table compares the prediction of these algorithms on the basis of accuracy_score:- <br> <br>
 | Models | Accuracy_Score |
 | ----------- | ----------- |
-| Logistic Regression | 0.8252536640360767 |
+| Logistic_Regression | 0.8252536640360767 |
 | KNN | 0.8485062006764374 |
 | Decision Tree | 0.8458286358511837 |
 | Random Forest | 0.8607666290868095 |
 | ANN | 0.8679537767756482 |
 
 
-| Syntax | Description |
+| Models | Accuracy_Score |
 | ----------- | ----------- |
-| Header | Title |
+| Logistic_Regression | 0.8252536640360767 |
 | Paragraph | Text |
 | Paragraph | Text |
 | Paragraph | Text |
