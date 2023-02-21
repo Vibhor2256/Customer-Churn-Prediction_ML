@@ -9,3 +9,4 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 
 * Data Analysis and Data Preprocessing was needed for the dataset inorder to make it trainable for the algorithm. 
 ![Fields which were having NULL values in the dataset](images/Screenshot_20230221_140824.png)
+
