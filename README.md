@@ -25,3 +25,6 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
+| Paragraph | Text |
