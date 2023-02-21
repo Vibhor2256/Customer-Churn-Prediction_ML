@@ -12,10 +12,7 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 
 * Seperated independent, dependent variables & splitted them into training and testing set so as to use the dataset for training the algorithms for the inherent behaviour of the dataset. Finally algorithms were tested on the testing part of the dataset for the prediction as well as accuracy scores and confusion matrix.
 * Algorithms used for the churn predictions were 'Logistic Regression', 'KNN Classifier', 'Decision Tree Classifier', 'Random Forest Classifier' and 'ANN classifier'. Below table compares the prediction of these algorithms on the basis of accuracy_score:- 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
 
 | Models | Accuracy_Score |
 | ----------- | ----------- |
