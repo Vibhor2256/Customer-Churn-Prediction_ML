@@ -6,9 +6,9 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 * Data set were having a lot of missing values, NULL values, etc. So various data cleaning methods were used to clean the data first. Below are some snapshots for the dataset: ![](images/Screenshot 2023-02-21 135202.png)
 ![](images/Screenshot_20230221_140136.png)
 
-* Data Analysis and Data Preprocessing was needed for the dataset inorder to make it trainable for the algorithm.
+* Data Analysis and Data Preprocessing was needed for the dataset inorder to make it trainable for the algorithm. Refer below snapshots showcasing such instances:-
 ![](images/Screenshot_20230221_140824.png) ![](images/Screenshot_20230221_153850.png)
-Here is one such example where the missing values were removed using 'One Hot Encoding'. The Null values from 'gender' and 'occupation' are removed now after data preprocessing- ![](images/Screenshot_20230221_154212.png)  ![](images/Screenshot_20230221_154733.png)
+Here is one such example where the missing values were removed using 'One Hot Encoding'. ![](images/Screenshot_20230221_154212.png) The Null values from 'gender' and 'occupation' are removed now after data preprocessing- ![](images/Screenshot_20230221_154733.png)
 
 *
 
