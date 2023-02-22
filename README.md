@@ -11,7 +11,7 @@ This is a repository/portfolio for project created named "Customer Churn Predict
 <br> <br> Below is one such example where the missing values were removed using 'One Hot Encoding'. <br> <br> ![](images/Screenshot_20230221_154212.png) <br> <br> The Null values from 'gender' and 'occupation' are removed now after data preprocessing-<br> ![](images/Screenshot_20230221_154733.png)
 
 * Seperated independent, dependent variables & splitted them into training and testing set so as to use the dataset for training the algorithms for the inherent behaviour of the dataset. Finally algorithms were tested on the testing part of the dataset for the prediction as well as accuracy scores and confusion matrix.
-* Algorithms used for the churn predictions were 'Logistic Regression', 'KNN Classifier', 'Decision Tree Classifier', 'Random Forest Classifier' and 'ANN classifier'. Below table compares the prediction of these algorithms on the basis of accuracy_score:- 
+* Algorithms used for the churn predictions were 'Logistic Regression', 'KNN Classifier', 'Decision Tree Classifier', 'Random Forest Classifier' and 'ANN classifier'. Below table compares the prediction of these algorithms on the basis of accuracy_score, Random_Forest and ANN resulted to work best for our dataset giving highest accuracy_score :- 
 
 | Models | Accuracy_Score |
 | ----------- | ----------- |
